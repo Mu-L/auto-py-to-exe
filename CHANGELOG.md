@@ -1,5 +1,25 @@
 # Changelog
 
+## 2.44.1
+
+🐛 Bug Fixes
+
+- [#486](https://github.com/brentvollebregt/auto-py-to-exe/issues/486): Correctly resolve relative paths to the current working directory
+
+## 2.44.0
+
+🚀 Enhancements
+
+- [#488](https://github.com/brentvollebregt/auto-py-to-exe/pull/488): Added Hebrew translations
+- [#491](https://github.com/brentvollebregt/auto-py-to-exe/pull/491): Added Belarusian translations
+- Put the new "optimize" option in the correct section
+- Relocated theme toggle to claim back vertical space
+
+🏆 Contributors
+
+- [Ron Bentata](https://github.com/ronbentata)
+- [Зміцер](https://github.com/Zmicier21)
+
 ## 2.43.3
 
 🐛 Bug Fixes
